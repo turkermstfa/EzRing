@@ -1,2 +1,2 @@
 # EzRing
-Esp32 Project
+Açıklamalar Revize notları dosyasında
