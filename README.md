@@ -6,4 +6,4 @@
 5) J6 vidalı klemens olarak koymuştum ilk başta ama farklı bir tip mi olmalı tam anlayamadım.
 6) J5 header olarak ürün kodunu ve footprintini ayarladım.
 7) Ölçüleri 50 * 50 olarak yerleştirdim.
-R4 ve R5 i optoya bağlı voltaj değerinden optonun harcadığı voltajı çıkartıp optonun cutoff kısmına girmeyecek şekilde bir ma değerini belirleyip direncini buluyorum
+8) R4 ve R5 i optoya bağlı voltaj değerinden optonun harcadığı voltajı çıkartıp optonun cutoff kısmına girmeyecek şekilde bir ma değerini belirleyip direncini buluyorum
